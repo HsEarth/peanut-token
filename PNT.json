@@ -3,7 +3,7 @@
 	"symbol": "PNT",
 	"description": "A token to honor Peanut, the squirrel. Perfect for trading and collecting!",
 	"seller_fee_basis_points": 500, // Комиссия 5%
-	"image": "https://bronze-passive-stingray-995.mypinata.cloud/ipfs/QmQPDdB1FQax3gVTkbtp6TVaHMx7Hj74WuzESx3XDCT868", // Замените на ваш IPFS URL
+	"image": "https://raw.githubusercontent.com/HsEarth/peanut-token/bce9c8532088da01e431baa64255f1aa2b0ad8f1/pnt.png", // Замените на ваш IPFS URL
 	"animation_url": null,
 	"attributes": [
 		{
@@ -28,7 +28,7 @@
 		"files": [
 			{
 				"type": "image/png",
-				"uri": "https://bronze-passive-stingray-995.mypinata.cloud/ipfs/QmQPDdB1FQax3gVTkbtp6TVaHMx7Hj74WuzESx3XDCT868" // Замените на ваш IPFS URL
+				"uri": "https://raw.githubusercontent.com/HsEarth/peanut-token/bce9c8532088da01e431baa64255f1aa2b0ad8f1/pnt.png" // Замените на ваш IPFS URL
 			}
 		]
 	}
