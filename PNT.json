@@ -1,7 +1,7 @@
 {
     "name": "Peanut Token",
     "symbol": "PNT",
-    "uri": "",
+    "uri": "https://raw.githubusercontent.com/HsEarth/peanut-token/e8c5a577f31427a5f45620eb99e5d0fef2d4f7db/PNT.json",
     "seller_fee_basis_points": 500,
     "creators": [
         {
