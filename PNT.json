@@ -1,16 +1,35 @@
 {
-  "name": "Peanut",
-  "symbol": "PNT",
-  "description": "In memory of Peanut, a beloved squirrel.",
-  "image": "https://raw.githubusercontent.com/HsEarth/peanut-token/bce9c8532088da01e431baa64255f1aa2b0ad8f1/pnt.png",
-  "attributes": [
-    {
-      "trait_type": "Animal",
-      "value": "Squirrel"
-    },
-    {
-      "trait_type": "Memory",
-      "value": "Beloved"
-    }
-  ]
+	"name": "Peanut Token",
+	"symbol": "PNT",
+	"description": "A token to honor Peanut, the squirrel. Perfect for trading and collecting!",
+	"seller_fee_basis_points": 500, // Комиссия 5%
+	"image": "https://raw.githubusercontent.com/HsEarth/peanut-token/bce9c8532088da01e431baa64255f1aa2b0ad8f1/pnt.png", // Замените на ваш IPFS URL
+	"animation_url": null,
+	"attributes": [
+		{
+			"trait_type": "Squirrel",
+			"value": "Peanut"
+		},
+        {
+			"trait_type": "Squirrel!!!!",
+			"value": "Peanut"
+		}
+	],
+	"external_url": "https://www.solana.com", // Можно заменить на свой сайт или страницу
+	"properties": {
+		"category": "image",
+		"creators": [
+			{
+				"address": "2TUHFMiX1QPvZWtoxRXmmcZV1x8kRM9G5QSN85cEQ4MA", // Ваш кошелек
+				"verified": true,
+				"share": 100
+			}
+		],
+		"files": [
+			{
+				"type": "image/png",
+				"uri": "https://raw.githubusercontent.com/HsEarth/peanut-token/bce9c8532088da01e431baa64255f1aa2b0ad8f1/pnt.png" // Замените на ваш IPFS URL
+			}
+		]
+	}
 }
