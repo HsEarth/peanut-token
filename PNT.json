@@ -1,0 +1,13 @@
+{
+    "name": "Peanut Token",
+    "symbol": "PNT",
+    "uri": "",
+    "seller_fee_basis_points": 500,
+    "creators": [
+        {
+            "address": "2TUHFMiX1QPvZWtoxRXmmcZV1x8kRM9G5QSN85cEQ4MA",
+            "share": 100
+        }
+    ],
+    "image": "ipfs://QmU4C4zRB5Th3JHCp1zsYo17hv8ovk75N2LzEqLzDz2tjS"
+}
